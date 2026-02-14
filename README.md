@@ -1,2 +1,2 @@
-# belajar-kolaborasi
-Repository ini adalah hasil latihan dalam kelas Dicoding
+# Belajar Kolaborasi
+ディコーディングでギットハブを学ぶのは本当に楽しいです！
